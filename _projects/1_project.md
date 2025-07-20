@@ -78,9 +78,9 @@ Robot Design
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-<h2><strong>Mechanical Design</strong></h2>
+Mechanical Design
 
-<h2><strong>Software Design</strong></h2>
+Software Design
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
