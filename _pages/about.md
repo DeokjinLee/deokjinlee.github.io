@@ -31,8 +31,8 @@ latest_posts:
 Dual-Arm Robots · System Identification · Model-Based & Data-Driven Control · Physically informed Optimization
 
 
-Hello, I’m Deokjin Lee, a Ph.D. student at the Motion Control Lab, DGIST, Korea, under the supervision of Prof. Sehoon Oh.
+Hello, I’m Deokjin Lee, a Ph.D. student in the Motion Control Lab at DGIST, Korea, supervised by Prof. Sehoon Oh.
 
-My research focuses on advancing humanoid robotics to exceed the limits of human capability. I have developed a human-like dual-arm robot and am currently working on designing optimal controllers to push the boundaries of control performance.
+My research focuses on advancing humanoid robotics beyond human physical capabilities. I’ve developed a human-like dual-arm robot and am working on optimal controller design to maximize performance.
 
-My current interests lie in data-driven optimization of control design for flexible joint robots, with a particular focus on enhancing physical awareness through system identification and hybrid control strategies.
+I'm particularly interested in physically aware, data-driven optimization for control design in flexible joint robots, integrating model-based and data-driven methods with system identification techniques.
