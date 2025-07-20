@@ -31,8 +31,8 @@ Dual arm Robot
     This image can also have a caption. It's like magic.
 </div>
 
-<h2><strong>Mechanical Design</strong></h2>
-<p>Actuator</p>
+Mechanical Design
+Actuator
 
 Rigid actuator
 <div class="row">
