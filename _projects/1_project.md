@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hardware design - Dual arm robot
-description: with background image
+title: Robot Design
+description: Dual arm robot
 img: assets/img/12.jpg
 importance: 1
 category: work

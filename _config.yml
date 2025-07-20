@@ -86,8 +86,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Deokjin Lee # blog_name will be displayed in your blog page
-blog_description: Dual-Arm Robots · System Identification · Model-Based & Data-Driven Control · Physically informed Optimization
+blog_name: Beyond Human: High-Performance Robotics
+ # blog_name will be displayed in your blog page
+blog_description: Robotic Design · Robotic System Identification · Physically Aware Robotic Control
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
