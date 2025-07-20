@@ -27,9 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I am Deokjin Lee, PhD student at DGIST,Korea. 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dual-Arm Robots · System Identification · Model-Based & Data-Driven Control · Physically informed Optimization
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Hello, I’m Deokjin Lee, a Ph.D. student at the Motion Control Lab, DGIST, Korea, under the supervision of Prof. Sehoon Oh.
+
+My research focuses on advancing humanoid robotics to exceed the limits of human capability. I have developed a human-like dual-arm robot and am currently working on designing optimal controllers to push the boundaries of control performance.
+
+My current interests lie in data-driven optimization of control design for flexible joint robots, with a particular focus on enhancing physical awareness through system identification and hybrid control strategies.
