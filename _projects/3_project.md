@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data-driven Control design
+title: State Estimation
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com

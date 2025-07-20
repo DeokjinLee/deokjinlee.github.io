@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Road map
+title: Fast and Robust Motion Control
 description: another without an image
 img:
 importance: 3

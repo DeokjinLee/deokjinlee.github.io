@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Model-based robot control
+title: Robotic System Identification
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
